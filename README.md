@@ -15,3 +15,18 @@ The primary goals of this analysis are:
 - Measure operational efficiency (Lead Time and Shipping Speed)
 - Detect potential business risks related to delayed orders
 - Provide actionable recommendations for management
+
+## Dataset
+
+Source: CSV dataset (sales transactional data)
+
+The dataset includes:
+
+- Order information
+- Sales amount
+- Category and Segment
+- Region
+- Shipping speed
+- Lead time metrics
+
+Data was cleaned and transformed before visualization.
