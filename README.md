@@ -53,3 +53,12 @@ Data was cleaned and transformed before visualization.
 - Regional Shipping Performance Analysis
 
 The dashboard is structured to support executive-level review.
+
+## Key Insights
+
+- Sales increased by 15% YoY, driven mainly by the Consumer segment (53%) and Furniture category (49%).
+- 18% of total orders experienced delays, indicating operational risk.
+- West region shows the highest number of slow shipments.
+- Lead time in West is slightly higher compared to other regions.
+
+These findings suggest that while revenue performance is strong, operational bottlenecks may impact customer satisfaction if not addressed.
