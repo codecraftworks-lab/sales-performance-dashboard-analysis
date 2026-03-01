@@ -62,3 +62,10 @@ The dashboard is structured to support executive-level review.
 - Lead time in West is slightly higher compared to other regions.
 
 These findings suggest that while revenue performance is strong, operational bottlenecks may impact customer satisfaction if not addressed.
+
+## Business Recommendations
+
+- Conduct operational audit in West region to reduce slow shipment rate.
+- Monitor lead time against SLA benchmarks.
+- Align logistics performance with revenue-driving segments.
+- Implement continuous monitoring dashboard for monthly review.
