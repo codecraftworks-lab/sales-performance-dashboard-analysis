@@ -76,3 +76,10 @@ These findings suggest that while revenue performance is strong, operational bot
 2. Open the Excel dashboard file.
 3. Use filters (Year, Quarter) to explore trends.
 4. Review insights section for strategic interpretation.
+
+## Future Improvements
+
+- Add revenue impact estimation of delayed orders.
+- Introduce predictive trend modeling.
+- Integrate profit margin analysis.
+- Expand to Power BI or Looker Studio version.
