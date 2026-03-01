@@ -30,3 +30,9 @@ The dataset includes:
 - Lead time metrics
 
 Data was cleaned and transformed before visualization.
+
+## Tools Used
+
+- Microsoft Excel (Data Cleaning, Pivot Tables, Dashboard Design)
+- CSV dataset processing
+- Data aggregation and KPI modeling
