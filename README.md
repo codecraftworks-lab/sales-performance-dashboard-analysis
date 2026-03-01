@@ -69,3 +69,10 @@ These findings suggest that while revenue performance is strong, operational bot
 - Monitor lead time against SLA benchmarks.
 - Align logistics performance with revenue-driving segments.
 - Implement continuous monitoring dashboard for monthly review.
+
+## How to Use
+
+1. Download the CSV dataset.
+2. Open the Excel dashboard file.
+3. Use filters (Year, Quarter) to explore trends.
+4. Review insights section for strategic interpretation.
