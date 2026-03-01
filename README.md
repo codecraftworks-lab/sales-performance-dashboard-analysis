@@ -36,3 +36,20 @@ Data was cleaned and transformed before visualization.
 - Microsoft Excel (Data Cleaning, Pivot Tables, Dashboard Design)
 - CSV dataset processing
 - Data aggregation and KPI modeling
+
+## Dashboard Overview
+
+- The dashboard contains:
+- Total Sales and YoY Growth
+- Total Orders
+- Top Category by Sales
+- Average Lead Time
+- Percentage of Slow Orders
+- Sales by Month (Trend Analysis)
+- Sales by Segment
+- Sales by Category
+- Lead Time by Region
+- Order Distribution by Shipping Speed
+- Regional Shipping Performance Analysis
+
+The dashboard is structured to support executive-level review.
