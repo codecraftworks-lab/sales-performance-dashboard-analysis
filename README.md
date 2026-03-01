@@ -39,6 +39,10 @@ Data was cleaned and transformed before visualization.
 
 ## Dashboard Overview
 
+## Dashboard Preview
+
+![Superstore Sales Dashboard](Superstore%20Sales%20Dashboard.png)
+
 - The dashboard contains:
 - Total Sales and YoY Growth
 - Total Orders
