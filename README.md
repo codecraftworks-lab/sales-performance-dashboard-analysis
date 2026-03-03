@@ -32,7 +32,7 @@ The dataset includes:
 - Shipping speed
 - Lead time metrics
 
-Data was cleaned and transformed before visualization.
+Data was cleaned and transformed before visualization and SQL modeling.
 
 ## Tools Used
 
