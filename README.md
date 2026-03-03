@@ -2,9 +2,12 @@
 
 ## Project Overview
 
-This project presents an end-to-end sales performance analysis built from a raw CSV dataset into an executive-level dashboard. The objective is not only to report revenue metrics but also to identify operational risks and business improvement opportunities.
+This project presents an end-to-end sales and operational performance analysis, starting from a raw CSV dataset and transforming it into both an executive-level Excel dashboard and a structured SQL-based analytical environment.
 
-The final output is a structured dashboard designed for strategic decision-making.
+The objective is not only to measure revenue performance but also to identify operational risks, particularly those related to shipping delays and lead time inefficiencies.
+
+The project demonstrates a complete analytical workflow:
+Raw Data → Data Cleaning → KPI Modeling → Dashboard Visualization → SQL-Based Validation & Analysis
 
 ## Business Objective
 
