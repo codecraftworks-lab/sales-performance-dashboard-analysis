@@ -41,7 +41,33 @@ Data was cleaned and transformed before visualization and SQL modeling.
 - CSV dataset processing
 - SQL-based analytical modeling
 
-## Dashboard Overview
+## SQL Workflow Explanation
+
+### 01_table_creation.sql
+- Creates the database and structured sales table to store transactional data.
+This ensures the project can be replicated from scratch.
+
+### 02_data_validation.sql
+- Performs data validation checks including:
+- Total row verification
+- Date range inspection
+- Missing value detection
+- Basic integrity checks
+
+This step ensures analytical reliability before generating insights.
+
+### 03_sales_analysis.sql
+
+Contains business queries that reproduce dashboard KPIs, including:
+- Total Sales and YoY Growth
+- Total Orders
+- Sales by Segment and Category
+- Monthly Sales Trend
+- Average Lead Time
+- Percentage of Slow Orders
+- Regional Shipping Performance
+
+All executive insights shown in the Excel dashboard are reproducible via SQL.
 
 ## Dashboard Preview
 
