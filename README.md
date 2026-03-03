@@ -106,14 +106,17 @@ These findings suggest that while revenue performance is strong, operational bot
 
 ## How to Use
 
-1. Download the CSV dataset.
-2. Open the Excel dashboard file.
-3. Use filters (Year, Quarter) to explore trends.
-4. Review insights section for strategic interpretation.
+1. Import the CSV dataset into MySQL.
+2. Run 01_table_creation.sql.
+3. Run 02_data_validation.sql.
+4. Run 03_sales_analysis.sql.
+5. Open the Excel dashboard file to compare KPI outputs.
+6. Use filters (Year, Quarter) to explore trends.
 
 ## Future Improvements
 
-- Add revenue impact estimation of delayed orders.
-- Introduce predictive trend modeling.
-- Integrate profit margin analysis.
-- Expand to Power BI or Looker Studio version.
+- Estimate revenue impact of delayed orders.
+- Add SLA benchmark modeling.
+- Introduce profit margin analysis.
+- Build a Power BI or Looker Studio version.
+- Implement automated reporting using SQL views.
