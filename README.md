@@ -36,9 +36,10 @@ Data was cleaned and transformed before visualization and SQL modeling.
 
 ## Tools Used
 
-- Microsoft Excel (Data Cleaning, Pivot Tables, Dashboard Design)
+- Microsoft Excel (Data Cleaning, Pivot Tables, KPI Modeling, Dashboard Design)
+- MySQL (Database Structuring, Data Validation, Business Query Analysis)
 - CSV dataset processing
-- Data aggregation and KPI modeling
+- SQL-based analytical modeling
 
 ## Dashboard Overview
 
